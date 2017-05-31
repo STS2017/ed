@@ -5,7 +5,7 @@ editor: Niels Hoyer
 source: E.P. Dutton & Co. Inc. (1933)
 ---
 
-<p class="citation"> by {{ page.author }}</p>
+<p class="citation">Edited by {{ page.editor }}</p>
 
 MAN INTO WOMAN
 
