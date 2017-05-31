@@ -1,37 +1,12 @@
 ---
 layout: narrative
-title: "MAN INTO WOMAN: An Authentic Record of a Change of Sex"
+title: "MAN INTO WOMAN: An Authentic Record of a Change of Sex; The true story of the miraculous transformation of the Danish painter Einar Wegener (Andreas Sparre)"
 editor: Niels Hoyer
+translator: H. J. STENNING
 source: E. P. Dutton 
-publication-date: 1933
+publication-date: "New York, 1933"
 
 ---
-
-MAN INTO WOMAN
-
-An Authentic Record of a Change of Sex
-The true story of the miraculous transformation of the Danish painter Einar Wegener (Andreas Sparre)
-
-Edited by
-NIELS HOYER
-
-Translated from the German by H. J. STENNING
-
-Introduction by
-NORMAN HAIRE Ch. M., M.B. 
-
-With 18 Illustrations 
-
-
-NEW YORK
-E.P. DUTTON & CO, INC.
-NEW YORK
-Man Into Woman, Copyright, 1933,
-By E. P. Dutton & Co., Inc.:: All
-Rights Reserved:: Printed in U.S.A.
-
-
-INTRODUCTION
 
 To the reader unfamiliar with the unhappy by-ways of sexual pathology, the story told in this book must seem incredibly fantastic. Incredible as it may seem, it is true. Or, rather, the facts are true, though I think there is room for differences of opinion about the interpretation of the facts.
 
