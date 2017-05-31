@@ -2,7 +2,7 @@
 layout: narrrative
 title: Man Into Woman, An Authentic Record of a Change of Sex 
 editor: Niels Hoyer
-source: E.P. Dutton & Co. Inc. (1933)
+source: "E.P. Dutton & Co. Inc. (1933)"
 ---
 MAN INTO WOMAN
 
