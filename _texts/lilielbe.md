@@ -1,7 +1,6 @@
 ---
 layout: narrative
 title: "MAN INTO WOMAN: An Authentic Record of a Change of Sex"
-author: none
 editor: Niels Hoyer
 source: E. P. Dutton 
 publication-date: 1933
